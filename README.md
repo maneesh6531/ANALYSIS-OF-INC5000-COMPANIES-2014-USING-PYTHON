@@ -4,10 +4,14 @@ This project analyzes the Inc5000 fastest-growing U.S. companies (2014) using Py
 It focuses on growth trends, revenue patterns, industry distributions, geographic insights, and company-size behavior using real-world business data.
 
 📁 Project Files
+
 File	Description
-project.py	Full Python code for analysis, preprocessing, and visualizations
+
+Project.py	Full Python code for analysis, preprocessing, and visualizations
+
 Data Set- Inc5000 Company List_2014.csv	Dataset used for the analysis
 python report.docx	Complete project documentation
+
 📌 Dataset Information
 
 Source: Tableau Public Sample Data
