@@ -10,6 +10,7 @@ File	Description
 Project.py	Full Python code for analysis, preprocessing, and visualizations
 
 Data Set- Inc5000 Company List_2014.csv	Dataset used for the analysis
+
 python report.docx	Complete project documentation
 
 📌 Dataset Information
